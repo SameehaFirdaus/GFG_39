@@ -8,7 +8,7 @@ Tags:
   - Matrix
 ---
 
-# 🚀 _Day 4. Search in a Row-Wise Sorted Matrix_ 🧠
+# 🚀 _Day 39. Search in a Row-Wise Sorted Matrix_ 🧠
 
 
 The problem can be found at the following link: [Question Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-row-wise-sorted-matrix)
